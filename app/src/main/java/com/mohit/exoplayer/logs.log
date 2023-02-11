@@ -1,0 +1,268 @@
+12:02:57.323 NetworkSecurityConfig com.mohit.exoplayer           D  No Network Security Config specified, using platform default
+12:02:57.332 NetworkSecurityConfig com.mohit.exoplayer           D  No Network Security Config specified, using platform default
+12:02:57.343 OpenGLRenderer        com.mohit.exoplayer           D  RenderThread::requireGlContext()
+12:02:57.357 OpenGLRenderer        com.mohit.exoplayer           D  RenderThread::setGrContext()
+12:02:57.358 AppCompatDelegate     com.mohit.exoplayer           D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+12:02:57.395 mohit.exoplayer       com.mohit.exoplayer           W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+12:02:57.395 mohit.exoplayer       com.mohit.exoplayer           W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+12:02:57.397 Compatibi...eReporter com.mohit.exoplayer           D  Compat change id reported: 210923482; UID 10508; state: ENABLED
+12:02:57.436 ExoPlayerImpl         com.mohit.exoplayer           I  Init edc8e3c [ExoPlayerLib/2.18.2] [c1s, SM-N981B, samsung, 33]
+12:02:57.447 mohit.exoplayer       com.mohit.exoplayer           W  Accessing hidden method Landroid/media/AudioTrack;->getLatency()I (unsupported, reflection, allowed)
+12:02:57.492 MSHandlerLifeCycle    com.mohit.exoplayer           I  check: return. pkg=com.mohit.exoplayer parent=null callers=com.android.internal.policy.DecorView.setVisibility:4373 android.app.ActivityThread.handleResumeActivity:5463 android.app.servertransaction.ResumeActivityItem.execute:54 android.app.servertransaction.ActivityTransactionItem.execute:45 android.app.servertransaction.TransactionExecutor.executeLifecycleState:176
+12:02:57.492 MSHandlerLifeCycle    com.mohit.exoplayer           I  removeMultiSplitHandler: no exist. decor=DecorView@2ce7d77[]
+12:02:57.496 NativeCus...cyManager com.mohit.exoplayer           D  [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+12:02:57.500 InsetsController      com.mohit.exoplayer           D  onStateChanged: InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 92 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(503, 0 - 577, 92), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0,0 H -13.15555555555556 V 32.71111111111111 H 13.15555555555556 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=90, center=Point(90, 90)}, RoundedCorner{position=TopRight, radius=90, center=Point(990, 90)}, RoundedCorner{position=BottomRight, radius=90, center=Point(990, 2310)}, RoundedCorner{position=BottomLeft, radius=90, center=Point(90, 2310)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 92) rotation=0}, mSources= { InsetsSource: {mType=ITYPE_STATUS_BAR, mFrame=[0,0][1080,92], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_NAVIGATION_BAR, mFrame=[0,2358][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_GESTURES, mFrame=[0,0][84,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_GESTURES, mFrame=[996,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_MANDATORY_GESTURES, mFrame=[0,0][1080,126], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_MANDATORY_GESTURES, mFrame=[0,2310][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_DISPLAY_CUTOUT, mFrame=[0,0][-100000,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_DISPLAY_CUTOUT, mFrame=[0,0][1080,92], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_DISPLAY_CUTOUT, mFrame=[100000,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_DISPLAY_CUTOUT, mFrame=[0,100000][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_TAPPABLE_ELEMENT, mFrame=[0,0][1080,92], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_TAPPABLE_ELEMENT, mFrame=[0,0][0,0], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_IME, mFrame=[0,0][0,0], mVisibleFrame=[0,2265][1080,2400], mVisible=false, mInsetsRoundedCornerFrame=false} } host=com.mohit.exoplayer/com.mohit.exoplayer.MainActivity from=android.view.ViewRootImpl.setView:1700
+12:02:57.506 ViewRootI...Activity] com.mohit.exoplayer           I  setView = com.android.internal.policy.DecorView@2ce7d77 TM=true
+12:02:57.507 MSHandlerLifeCycle    com.mohit.exoplayer           I  removeMultiSplitHandler: no exist. decor=DecorView@2ce7d77[MainActivity]
+12:02:57.510 PlayerListener        com.mohit.exoplayer           V  onLoadingChanged: isLoading = true
+12:02:57.510 PlayerListener        com.mohit.exoplayer           V  onIsLoadingChanged: isLoading = true
+12:02:57.510 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:02:57.510 PlayerListener        com.mohit.exoplayer           V  onTimelineChanged:
+12:02:57.510 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:02:57.521 ViewRootI...Activity] com.mohit.exoplayer           D  performTraversals params={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION wanim=0x1030309
+                                                                      fl=81810100
+                                                                      pfl=12020040
+                                                                      bhv=DEFAULT
+                                                                      fitSides= naviIconColor=0}
+12:02:57.522 ViewRootI...Activity] com.mohit.exoplayer           D  performTraversals mFirst=true windowShouldResize=true viewVisibilityChanged=false mForceNextWindowRelayout=false params={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION wanim=0x1030309
+                                                                      fl=81810100
+                                                                      pfl=12020040
+                                                                      bhv=DEFAULT
+                                                                      fitSides= naviIconColor=0}
+12:02:57.529 BLASTBufferQueue      com.mohit.exoplayer           D  new BLASTBufferQueue, mNativeObject= 0x70a583b6b0 name= ViewRootImpl@8f122cc[MainActivity] sc.mNativeObject= 0x7035867050 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2789 android.view.ViewRootImpl.relayoutWindow:9635 android.view.ViewRootImpl.performTraversals:3759 android.view.ViewRootImpl.doTraversal:2991 android.view.ViewRootImpl$TraversalRunnable.run:10665 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309 android.view.Choreographer.doCallbacks:923 android.view.Choreographer.doFrame:852 android.view.Choreographer$FrameDisplayEventReceiver.run:1283
+12:02:57.529 BLASTBufferQueue      com.mohit.exoplayer           D  update, w= 1080 h= 2400 mNativeObject= 0x70a583b6b0 sc.mNativeObject= 0x7035867050 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:76 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2789 android.view.ViewRootImpl.relayoutWindow:9635 android.view.ViewRootImpl.performTraversals:3759 android.view.ViewRootImpl.doTraversal:2991 android.view.ViewRootImpl$TraversalRunnable.run:10665
+12:02:57.529 ViewRootI...Activity] com.mohit.exoplayer           I  Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) req=(1080,2400)0 dur=7 res=0x3 s={true 0x713586d420} ch=true seqId=0
+12:02:57.530 ViewRootI...Activity] com.mohit.exoplayer           D  mThreadedRenderer.initialize() mSurface={isValid=true 0x713586d420} hwInitialized=true
+12:02:57.532 OpenGLRenderer        com.mohit.exoplayer           D  eglCreateWindowSurface
+12:02:57.534 Gralloc4              com.mohit.exoplayer           I  mapper 4.x is not supported
+12:02:57.534 Gralloc3              com.mohit.exoplayer           W  mapper 3.x is not supported
+12:02:57.536 ViewRootI...Activity] com.mohit.exoplayer           D  reportNextDraw android.view.ViewRootImpl.performTraversals:4313 android.view.ViewRootImpl.doTraversal:2991 android.view.ViewRootImpl$TraversalRunnable.run:10665 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309
+12:02:57.536 ViewRootI...Activity] com.mohit.exoplayer           D  Setup new sync id=0
+12:02:57.536 ViewRootI...Activity] com.mohit.exoplayer           D  Setting syncFrameCallback
+12:02:57.536 ViewRootI...Activity] com.mohit.exoplayer           D  registerCallbacksForSync syncBuffer=false
+12:02:57.537 gralloc               com.mohit.exoplayer           I  Arm Module v1.0
+12:02:57.538 Gralloc4              com.mohit.exoplayer           W  allocator 4.x is not supported
+12:02:57.539 Gralloc3              com.mohit.exoplayer           W  allocator 3.x is not supported
+12:02:57.542 ViewRootI...Activity] com.mohit.exoplayer           D  Received frameDrawingCallback syncResult=0 frameNum=1.
+12:02:57.542 ViewRootI...Activity] com.mohit.exoplayer           D  Setting up sync and frameCommitCallback
+12:02:57.548 BLASTBufferQueue      com.mohit.exoplayer           D  [ViewRootImpl@8f122cc[MainActivity]#0](f:0,a:0) onFrameAvailable the first frame is available
+12:02:57.549 ViewRootI...Activity] com.mohit.exoplayer           D  Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+12:02:57.549 OpenGLRenderer        com.mohit.exoplayer           D  CFMS:: SetUp Pid : 518    Tid : 578
+12:02:57.551 Parcel                com.mohit.exoplayer           W  Expecting binder but got null!
+12:02:57.552 ViewRootI...Activity] com.mohit.exoplayer           D  onSyncComplete
+12:02:57.552 ViewRootI...Activity] com.mohit.exoplayer           D  setupSync seqId=0 mSyncId=0 fn=1 caller=android.view.ViewRootImpl$$ExternalSyntheticLambda11.accept:6 android.window.SurfaceSyncer.lambda$setupSync$1$android-window-SurfaceSyncer:128 android.window.SurfaceSyncer$$ExternalSyntheticLambda1.accept:8 android.window.SurfaceSyncer$SyncSet.checkIfSyncIsComplete:382 android.window.SurfaceSyncer$SyncSet.markSyncReady:359 android.window.SurfaceSyncer.markSyncReady:151 android.view.ViewRootImpl.performTraversals:4373
+12:02:57.552 ViewRootI...Activity] com.mohit.exoplayer           D  reportDrawFinished seqId=0 mSyncId=-1 fn=1 mSurfaceChangedTransaction=0x706582f3d0
+12:02:57.557 AudioCapabilities     com.mohit.exoplayer           W  Unsupported mime audio/x-ape
+12:02:57.557 AudioCapabilities     com.mohit.exoplayer           W  Unsupported mime audio/x-ima
+12:02:57.557 AudioCapabilities     com.mohit.exoplayer           W  Unsupported mime audio/mpeg-L1
+12:02:57.558 AudioCapabilities     com.mohit.exoplayer           W  Unsupported mime audio/mpeg-L2
+12:02:57.558 VideoCapabilities     com.mohit.exoplayer           W  Unsupported mime video/mp43
+12:02:57.558 VideoCapabilities     com.mohit.exoplayer           W  Unsupported mime video/wvc1
+12:02:57.558 VideoCapabilities     com.mohit.exoplayer           W  Unsupported mime video/x-ms-wmv
+12:02:57.558 AudioCapabilities     com.mohit.exoplayer           W  Unsupported mime audio/x-ms-wma
+12:02:57.558 VideoCapabilities     com.mohit.exoplayer           W  Unsupported mime video/x-ms-wmv7
+12:02:57.559 VideoCapabilities     com.mohit.exoplayer           W  Unsupported mime video/x-ms-wmv8
+12:02:57.563 PlayerListener        com.mohit.exoplayer           V  onTimelineChanged:
+12:02:57.563 PlayerListener        com.mohit.exoplayer           I  onAvailableCommandsChanged:
+12:02:57.564 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:02:57.566 ViewRootI...Activity] com.mohit.exoplayer           I  MSG_WINDOW_FOCUS_CHANGED 1 0
+12:02:57.566 ViewRootI...Activity] com.mohit.exoplayer           D  mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0x713586d420}
+12:02:57.567 InputMethodManager    com.mohit.exoplayer           D  startInputInner - Id : 0
+12:02:57.567 InputMethodManager    com.mohit.exoplayer           I  startInputInner - mService.startInputOrWindowGainedFocus
+12:02:57.574 InputMethodManager    com.mohit.exoplayer           D  startInputInner - Id : 0
+12:02:57.592 PlayerListener        com.mohit.exoplayer           V  onTracksChanged:
+12:02:57.592 PlayerListener        com.mohit.exoplayer           V  onMediaMetadataChanged:
+12:02:57.592 DMCodecAdapterFactory com.mohit.exoplayer           I  Creating an asynchronous MediaCodec adapter for track type audio
+12:02:57.592 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:02:57.594 CCodec                com.mohit.exoplayer           I  state->set(ALLOCATING)
+12:02:57.594 CCodec                com.mohit.exoplayer           I  allocate(c2.sec.mp3.decoder)
+12:02:57.603 Codec2Client          com.mohit.exoplayer           I  Available Codec2 services: "default" "software"
+12:02:57.605 CCodec                com.mohit.exoplayer           I  setting up 'default' as default (vendor) store
+12:02:57.612 CCodec                com.mohit.exoplayer           I  Created component [c2.sec.mp3.decoder]
+12:02:57.612 CCodec                com.mohit.exoplayer           I  state->set(ALLOCATED)
+12:02:57.612 CCodecConfig          com.mohit.exoplayer           D  read media type: audio/mpeg
+12:02:57.614 ReflectedParamUpdater com.mohit.exoplayer           D  extent() != 1 for single value type: algo.buffers.max-count.values
+12:02:57.615 ReflectedParamUpdater com.mohit.exoplayer           D  extent() != 1 for single value type: output.subscribed-indices.values
+12:02:57.615 ReflectedParamUpdater com.mohit.exoplayer           D  extent() != 1 for single value type: input.buffers.allocator-ids.values
+12:02:57.615 ReflectedParamUpdater com.mohit.exoplayer           D  extent() != 1 for single value type: output.buffers.allocator-ids.values
+12:02:57.615 ReflectedParamUpdater com.mohit.exoplayer           D  extent() != 1 for single value type: algo.buffers.allocator-ids.values
+12:02:57.615 ReflectedParamUpdater com.mohit.exoplayer           D  extent() != 1 for single value type: output.buffers.pool-ids.values
+12:02:57.615 ReflectedParamUpdater com.mohit.exoplayer           D  extent() != 1 for single value type: algo.buffers.pool-ids.values
+12:02:57.617 CCodecConfig          com.mohit.exoplayer           I  query failed after returning 7 values (BAD_INDEX)
+12:02:57.617 CCodecConfig          com.mohit.exoplayer           D  c2 config diff is Dict {
+                                                                      c2::u32 coded.bitrate.value = 64000
+                                                                      c2::u32 input.buffers.max-size.value = 8192
+                                                                      c2::u32 input.delay.value = 0
+                                                                      string input.media-type.value = "audio/mpeg"
+                                                                      string output.media-type.value = "audio/raw"
+                                                                      c2::u32 raw.channel-count.value = 2
+                                                                      c2::u32 raw.sample-rate.value = 44100
+                                                                    }
+12:02:57.620 MediaCodec            com.mohit.exoplayer           I  MediaCodec will operate in async mode
+12:02:57.620 CCodec                com.mohit.exoplayer           D  [c2.sec.mp3.decoder] buffers are bound to CCodec for this session
+12:02:57.620 CCodec                com.mohit.exoplayer           I  appPid(518) width(0) height(0)
+12:02:57.620 CCodecConfig          com.mohit.exoplayer           D  no c2 equivalents for log-session-id
+12:02:57.621 CCodecConfig          com.mohit.exoplayer           D  no c2 equivalents for flags
+12:02:57.621 CCodecConfig          com.mohit.exoplayer           D  config failed => CORRUPTED
+12:02:57.621 Codec2Client          com.mohit.exoplayer           W  query -- param skipped: index = 1107298332.
+12:02:57.621 CCodec                com.mohit.exoplayer           D  client requested max input size 4096, which is smaller than what component recommended (8192); overriding with component recommendation.
+12:02:57.621 CCodec                com.mohit.exoplayer           W  This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+12:02:57.621 CCodec                com.mohit.exoplayer           D  encoding statistics level = 0
+12:02:57.622 CCodec                com.mohit.exoplayer           D  setup formats input: AMessage(what = 0x00000000) = {
+                                                                      int32_t bitrate = 64000
+                                                                      int32_t channel-count = 2
+                                                                      int32_t max-input-size = 8192
+                                                                      string mime = "audio/mpeg"
+                                                                      int32_t sample-rate = 44100
+                                                                      int64_t durationUs = 0
+                                                                    }
+12:02:57.622 CCodec                com.mohit.exoplayer           D  setup formats output: AMessage(what = 0x00000000) = {
+                                                                      int32_t channel-count = 2
+                                                                      string mime = "audio/raw"
+                                                                      int32_t sample-rate = 44100
+                                                                      int32_t android._config-pcm-encoding = 2
+                                                                    }
+12:02:57.622 CCodecConfig          com.mohit.exoplayer           I  query failed after returning 7 values (BAD_INDEX)
+12:02:57.623 MediaCodec            com.mohit.exoplayer           D  keep callback message for reclaim
+12:02:57.623 CCodec                com.mohit.exoplayer           I  state->set(STARTING)
+12:02:57.624 Codec2Client          com.mohit.exoplayer           W  query -- param skipped: index = 1342179345.
+12:02:57.624 Codec2Client          com.mohit.exoplayer           W  query -- param skipped: index = 2415921170.
+12:02:57.624 C2Store               com.mohit.exoplayer           D  Using ION
+12:02:57.625 CCodecBufferChannel   com.mohit.exoplayer           D  [c2.sec.mp3.decoder#579] Created input block pool with allocatorID 16 => poolID 17 - OK (0)
+12:02:57.626 CCodecBufferChannel   com.mohit.exoplayer           I  [c2.sec.mp3.decoder#579] Created output block pool with allocatorID 16 => poolID 41 - OK
+12:02:57.626 CCodecBufferChannel   com.mohit.exoplayer           D  [c2.sec.mp3.decoder#579] Configured output block pool ids 41 => OK
+12:02:57.626 CCodec                com.mohit.exoplayer           I  state->set(RUNNING)
+12:02:57.626 CCodecBufferChannel   com.mohit.exoplayer           I  [c2.sec.mp3.decoder#579] 4 initial input buffers available
+12:02:57.628 PlayerListener        com.mohit.exoplayer           I  onPlayerStateChanged: playWhenReady = false, playbackState = 3
+12:02:57.628 PlayerListener        com.mohit.exoplayer           I  onPlaybackStateChanged: playbackState = 3
+12:02:57.628 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:02:57.648 PlayerListener        com.mohit.exoplayer           V  onLoadingChanged: isLoading = false
+12:02:57.648 PlayerListener        com.mohit.exoplayer           V  onIsLoadingChanged: isLoading = false
+12:02:57.649 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:02:59.674 AudioTrack            com.mohit.exoplayer           D  setVolume(1.000000, 1.000000) pid : 518
+12:03:02.638 BufferPoolAccessor2.0 com.mohit.exoplayer           D  bufferpool2 0x709582b758 : 5(40960 size) total buffers - 4(32768 size) used buffers - 16/21 (recycle/alloc) - 7/32 (fetch/transfer)
+12:03:07.494 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 0
+12:03:07.505 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 1
+12:03:07.515 MainActivity          com.mohit.exoplayer           I  onCreate: is already playing = false
+12:03:07.526 PlayerListener        com.mohit.exoplayer           I  onPlayerStateChanged: playWhenReady = true, playbackState = 3
+12:03:07.526 PlayerListener        com.mohit.exoplayer           I  onPlayWhenReadyChanged: playWhenReady = true
+12:03:07.526 PlayerListener        com.mohit.exoplayer           I  onIsPlayingChanged: true
+12:03:07.528 Compatibi...eReporter com.mohit.exoplayer           D  Compat change id reported: 147798919; UID 10508; state: ENABLED
+12:03:07.531 Toast                 com.mohit.exoplayer           V  show: caller = com.mohit.exoplayer.MainActivity$initPlayer$1.onIsPlayingChanged:49
+12:03:07.532 Toast                 com.mohit.exoplayer           V  show: isFocusInDesktop = false mCustomDisplayId = -1 isDexDualMode = false isActivityContext = true
+12:03:07.536 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:03:07.542 System                com.mohit.exoplayer           W  A resource failed to call close.
+12:03:07.662 AudioTrack            com.mohit.exoplayer           D  getTimestamp_l(504): device stall time corrected using current time 20550986256569
+12:03:07.673 AudioTrack            com.mohit.exoplayer           D  getTimestamp_l(504): stale timestamp time corrected, currentTimeNanos: 19799611687876 < limitNs: 20550763805069 < mStartNs: 20550843805069
+12:03:07.673 AudioTrack            com.mohit.exoplayer           W  getTimestamp_l(504): retrograde timestamp time corrected, 20550763805069 < 20550986256569
+12:03:07.694 BufferPoolAccessor2.0 com.mohit.exoplayer           D  bufferpool2 0x709582b758 : 5(40960 size) total buffers - 1(8192 size) used buffers - 18/23 (recycle/alloc) - 7/42 (fetch/transfer)
+12:03:10.195 PlayerListener        com.mohit.exoplayer           V  onLoadingChanged: isLoading = true
+12:03:10.195 PlayerListener        com.mohit.exoplayer           V  onIsLoadingChanged: isLoading = true
+12:03:10.196 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:03:10.215 PlayerListener        com.mohit.exoplayer           V  onLoadingChanged: isLoading = false
+12:03:10.215 PlayerListener        com.mohit.exoplayer           V  onIsLoadingChanged: isLoading = false
+12:03:10.215 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:03:13.036 BufferPoolAccessor2.0 com.mohit.exoplayer           D  bufferpool2 0x709582b758 : 5(40960 size) total buffers - 1(8192 size) used buffers - 222/227 (recycle/alloc) - 10/450 (fetch/transfer)
+12:03:16.785 AudioManager          com.mohit.exoplayer           D  dispatching onAudioFocusChange(-2) to android.media.AudioManager@1b1c7c7com.google.android.exoplayer2.AudioFocusManager$AudioFocusListener@e7ae1f4
+12:03:16.786 PlayerListener        com.mohit.exoplayer           I  onPlaybackSuppressionReasonChanged: playbackSuppressionReason = 1
+12:03:16.787 PlayerListener        com.mohit.exoplayer           I  onIsPlayingChanged: false
+12:03:16.796 Toast                 com.mohit.exoplayer           V  show: caller = com.mohit.exoplayer.MainActivity$initPlayer$1.onIsPlayingChanged:49
+12:03:16.799 Toast                 com.mohit.exoplayer           V  show: isFocusInDesktop = false mCustomDisplayId = -1 isDexDualMode = false isActivityContext = true
+12:03:16.816 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:03:21.633 BufferPoolAccessor2.0 com.mohit.exoplayer           D  bufferpool2 0x709582b758 : 5(40960 size) total buffers - 0(0 size) used buffers - 367/372 (recycle/alloc) - 10/742 (fetch/transfer)
+12:03:21.633 BufferPoolAccessor2.0 com.mohit.exoplayer           D  evictor expired: 1, evicted: 1
+12:03:21.723 ViewRootI...Activity] com.mohit.exoplayer           I  MSG_WINDOW_FOCUS_CHANGED 0 0
+12:03:21.926 InputTransport        com.mohit.exoplayer           D  Input channel destroyed: 'ClientS', fd=125
+12:03:22.154 ViewRootI...Activity] com.mohit.exoplayer           I  handleAppVisibility mAppVisible = true visible = false
+12:03:22.174 OpenGLRenderer        com.mohit.exoplayer           D  setSurface called with nullptr
+12:03:22.174 OpenGLRenderer        com.mohit.exoplayer           D  setSurface() destroyed EGLSurface
+12:03:22.174 OpenGLRenderer        com.mohit.exoplayer           D  destroyEglSurface
+12:03:22.180 ViewRootI...Activity] com.mohit.exoplayer           D  performTraversals mFirst=false windowShouldResize=false viewVisibilityChanged=true mForceNextWindowRelayout=false params=null
+12:03:22.191 ViewRootI...Activity] com.mohit.exoplayer           I  Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) req=(1080,2400)8 dur=9 res=0x2 s={false 0x0} ch=true seqId=0
+12:03:22.194 ViewRootI...Activity] com.mohit.exoplayer           I  stopped(true) old = false
+12:03:22.194 ViewRootI...Activity] com.mohit.exoplayer           D  WindowStopped on com.mohit.exoplayer/com.mohit.exoplayer.MainActivity set to true
+12:03:22.207 MSHandlerLifeCycle    com.mohit.exoplayer           I  removeMultiSplitHandler: no exist. decor=DecorView@2ce7d77[MainActivity]
+12:03:22.228 WindowManager         pid-1223                      E  win=Window{4595ea1 u0 com.mohit.exoplayer/com.mohit.exoplayer.MainActivity} destroySurfaces: appStopped=true cleanupOnResume=false win.mWindowRemovalAllowed=false win.mRemoveOnExit=false win.mViewVisibility=8 caller=com.android.server.wm.ActivityRecord.destroySurfaces:6428 com.android.server.wm.ActivityRecord.destroySurfaces:6409 com.android.server.wm.ActivityRecord.notifyAppStopped:6473 com.android.server.wm.ActivityRecord.activityStopped:7060 com.android.server.wm.ActivityClientController.activityStopped:258 android.app.IActivityClientController$Stub.onTransact:613 com.android.server.wm.ActivityClientController.onTransact:136
+12:03:24.663 ViewRootI...Activity] com.mohit.exoplayer           I  handleAppVisibility mAppVisible = false visible = true
+12:03:24.665 ViewRootI...Activity] com.mohit.exoplayer           I  stopped(false) old = true
+12:03:24.665 ViewRootI...Activity] com.mohit.exoplayer           D  WindowStopped on com.mohit.exoplayer/com.mohit.exoplayer.MainActivity set to false
+12:03:24.674 MSHandlerLifeCycle    com.mohit.exoplayer           I  removeMultiSplitHandler: no exist. decor=DecorView@2ce7d77[MainActivity]
+12:03:24.674 ViewRootI...Activity] com.mohit.exoplayer           I  stopped(false) old = false
+12:03:24.676 DecorView             com.mohit.exoplayer           I  notifyKeepScreenOnChanged: keepScreenOn=false
+12:03:24.684 MSHandlerLifeCycle    com.mohit.exoplayer           I  removeMultiSplitHandler: no exist. decor=DecorView@2ce7d77[MainActivity]
+12:03:24.693 ViewRootI...Activity] com.mohit.exoplayer           D  performTraversals params={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION wanim=0x1030309
+                                                                      fl=81810100
+                                                                      pfl=12020040
+                                                                      bhv=DEFAULT
+                                                                      fitSides= naviIconColor=0}
+12:03:24.696 ViewRootI...Activity] com.mohit.exoplayer           D  performTraversals mFirst=false windowShouldResize=false viewVisibilityChanged=true mForceNextWindowRelayout=false params={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION wanim=0x1030309
+                                                                      fl=81810100
+                                                                      pfl=12020040
+                                                                      bhv=DEFAULT
+                                                                      fitSides= naviIconColor=0}
+12:03:24.721 BLASTBufferQueue      com.mohit.exoplayer           D  new BLASTBufferQueue, mNativeObject= 0x70a583b6b0 name= ViewRootImpl@8f122cc[MainActivity] sc.mNativeObject= 0x7035867aa0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2789 android.view.ViewRootImpl.relayoutWindow:9635 android.view.ViewRootImpl.performTraversals:3759 android.view.ViewRootImpl.doTraversal:2991 android.view.ViewRootImpl$TraversalRunnable.run:10665 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309 android.view.Choreographer.doCallbacks:923 android.view.Choreographer.doFrame:852 android.view.Choreographer$FrameDisplayEventReceiver.run:1283
+12:03:24.721 BLASTBufferQueue      com.mohit.exoplayer           D  update, w= 1080 h= 2400 mNativeObject= 0x70a583b6b0 sc.mNativeObject= 0x7035867aa0 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:76 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2789 android.view.ViewRootImpl.relayoutWindow:9635 android.view.ViewRootImpl.performTraversals:3759 android.view.ViewRootImpl.doTraversal:2991 android.view.ViewRootImpl$TraversalRunnable.run:10665
+12:03:24.722 ViewRootI...Activity] com.mohit.exoplayer           I  Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) req=(1080,2400)0 dur=22 res=0x3 s={true 0x713586d420} ch=true seqId=0
+12:03:24.723 OpenGLRenderer        com.mohit.exoplayer           D  eglCreateWindowSurface
+12:03:24.723 ViewRootI...Activity] com.mohit.exoplayer           D  mThreadedRenderer.initialize() mSurface={isValid=true 0x713586d420} hwInitialized=true
+12:03:24.726 ViewRootI...Activity] com.mohit.exoplayer           D  reportNextDraw android.view.ViewRootImpl.performTraversals:4313 android.view.ViewRootImpl.doTraversal:2991 android.view.ViewRootImpl$TraversalRunnable.run:10665 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309
+12:03:24.727 ViewRootI...Activity] com.mohit.exoplayer           D  Setup new sync id=1
+12:03:24.727 ViewRootI...Activity] com.mohit.exoplayer           D  Setting syncFrameCallback
+12:03:24.727 ViewRootI...Activity] com.mohit.exoplayer           D  registerCallbacksForSync syncBuffer=false
+12:03:24.746 ViewRootI...Activity] com.mohit.exoplayer           D  Received frameDrawingCallback syncResult=0 frameNum=1.
+12:03:24.746 ViewRootI...Activity] com.mohit.exoplayer           D  Setting up sync and frameCommitCallback
+12:03:24.749 BLASTBufferQueue      com.mohit.exoplayer           D  [ViewRootImpl@8f122cc[MainActivity]#1](f:0,a:0) onFrameAvailable the first frame is available
+12:03:24.749 ViewRootI...Activity] com.mohit.exoplayer           D  Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+12:03:24.750 ViewRootI...Activity] com.mohit.exoplayer           D  onSyncComplete
+12:03:24.751 ViewRootI...Activity] com.mohit.exoplayer           D  setupSync seqId=0 mSyncId=1 fn=1 caller=android.view.ViewRootImpl$$ExternalSyntheticLambda11.accept:6 android.window.SurfaceSyncer.lambda$setupSync$1$android-window-SurfaceSyncer:128 android.window.SurfaceSyncer$$ExternalSyntheticLambda1.accept:8 android.window.SurfaceSyncer$SyncSet.checkIfSyncIsComplete:382 android.window.SurfaceSyncer$SyncSet.markSyncReady:359 android.window.SurfaceSyncer.markSyncReady:151 android.view.ViewRootImpl.performTraversals:4373
+12:03:24.751 ViewRootI...Activity] com.mohit.exoplayer           D  reportDrawFinished seqId=0 mSyncId=-1 fn=1 mSurfaceChangedTransaction=0x706582f3d0
+12:03:24.769 ViewRootI...Activity] com.mohit.exoplayer           I  MSG_WINDOW_FOCUS_CHANGED 1 0
+12:03:24.769 ViewRootI...Activity] com.mohit.exoplayer           D  mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0x713586d420}
+12:03:24.771 InputMethodManager    com.mohit.exoplayer           D  startInputInner - Id : 0
+12:03:24.771 InputMethodManager    com.mohit.exoplayer           I  startInputInner - mService.startInputOrWindowGainedFocus
+----------------- play -------------
+12:03:38.601 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 0
+12:03:38.650 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 1
+12:03:38.651 MainActivity          com.mohit.exoplayer           I  onCreate: is already playing = false
+12:03:38.655 PlayerListener        com.mohit.exoplayer           I  onPlayerStateChanged: playWhenReady = false, playbackState = 3
+12:03:38.655 PlayerListener        com.mohit.exoplayer           I  onPlayWhenReadyChanged: playWhenReady = false
+12:03:38.655 PlayerListener        com.mohit.exoplayer           I  onPlaybackSuppressionReasonChanged: playbackSuppressionReason = 0
+12:03:38.658 PlayerListener        com.mohit.exoplayer           V  onEvents:
+------------------- play again -----------
+12:03:44.155 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 0
+12:03:44.210 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 1
+12:03:44.211 MainActivity          com.mohit.exoplayer           I  onCreate: is already playing = false
+12:03:46.212 ViewRootI...Activity] com.mohit.exoplayer           I  MSG_WINDOW_FOCUS_CHANGED 0 0
+12:03:49.603 AudioManager          com.mohit.exoplayer           D  dispatching onAudioFocusChange(1) to android.media.AudioManager@1b1c7c7com.google.android.exoplayer2.AudioFocusManager$AudioFocusListener@e7ae1f4
+12:03:50.334 InsetsSourceConsumer  com.mohit.exoplayer           D  ensureControlPosition: Point(0, 2265) for ITYPE_NAVIGATION_BAR on com.mohit.exoplayer/com.mohit.exoplayer.MainActivity from android.view.InsetsSourceConsumer.setControl:211
+12:03:50.338 ViewRootI...Activity] com.mohit.exoplayer           I  mWNT: t=0x7065826070 mBlastBufferQueue=0x70a583b6b0 fn= 53 caller= android.view.SyncRtSurfaceTransactionApplier.applyTransaction:96 android.view.SyncRtSurfaceTransactionApplier.lambda$scheduleApply$0$android-view-SyncRtSurfaceTransactionApplier:69 android.view.SyncRtSurfaceTransactionApplier$$ExternalSyntheticLambda0.onFrameDraw:4
+12:03:50.338 BLASTBufferQueue      com.mohit.exoplayer           D  mergeWithNextTransaction, mNativeObject= 0x70a583b6b0 t.mNativeObject= 0x7065826070 frameNumber= 53 caller= android.view.ViewRootImpl.mergeWithNextTransaction:12594 android.view.SyncRtSurfaceTransactionApplier.applyTransaction:96 android.view.SyncRtSurfaceTransactionApplier.lambda$scheduleApply$0$android-view-SyncRtSurfaceTransactionApplier:69 android.view.SyncRtSurfaceTransactionApplier$$ExternalSyntheticLambda0.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 android.view.ViewRootImpl$6.onFrameDraw:2053
+12:03:50.340 ViewRootI...Activity] com.mohit.exoplayer           I  MSG_WINDOW_FOCUS_CHANGED 1 0
+12:03:50.340 ViewRootI...Activity] com.mohit.exoplayer           D  mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0x713586d420}
+12:03:50.341 InputMethodManager    com.mohit.exoplayer           D  startInputInner - Id : 0
+12:03:50.341 InputMethodManager    com.mohit.exoplayer           I  startInputInner - mService.startInputOrWindowGainedFocus
+12:03:51.319 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 0
+12:03:51.350 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 1
+12:03:51.350 MainActivity          com.mohit.exoplayer           I  onCreate: is already playing = false
+12:03:51.351 PlayerListener        com.mohit.exoplayer           I  onPlayerStateChanged: playWhenReady = true, playbackState = 3
+12:03:51.351 PlayerListener        com.mohit.exoplayer           I  onPlayWhenReadyChanged: playWhenReady = true
+12:03:51.351 PlayerListener        com.mohit.exoplayer           I  onIsPlayingChanged: true
+12:03:51.363 Toast                 com.mohit.exoplayer           V  show: caller = com.mohit.exoplayer.MainActivity$initPlayer$1.onIsPlayingChanged:49
+12:03:51.364 Toast                 com.mohit.exoplayer           V  show: isFocusInDesktop = false mCustomDisplayId = -1 isDexDualMode = false isActivityContext = true
+12:03:51.369 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:03:51.502 AudioTrack            com.mohit.exoplayer           D  getTimestamp_l(504): device stall time corrected using current time 20594825712000
+12:03:51.512 AudioTrack            com.mohit.exoplayer           D  getTimestamp_l(504): stale timestamp time corrected, currentTimeNanos: 20563128157830 < limitNs: 20594594810461 < mStartNs: 20594674810461
+12:03:51.512 AudioTrack            com.mohit.exoplayer           W  getTimestamp_l(504): retrograde timestamp time corrected, 20594594810461 < 20594825712000
+12:03:51.513 BufferPoolAccessor2.0 com.mohit.exoplayer           D  bufferpool2 0x709582b758 : 1(8192 size) total buffers - 1(8192 size) used buffers - 367/373 (recycle/alloc) - 10/742 (fetch/transfer)
+12:03:53.577 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 0
+12:03:53.614 ViewRootI...Activity] com.mohit.exoplayer           I  ViewPostIme pointer 1
+12:03:53.615 MainActivity          com.mohit.exoplayer           I  onCreate: is already playing = true
+12:03:53.616 PlayerListener        com.mohit.exoplayer           I  onPlayerStateChanged: playWhenReady = false, playbackState = 3
+12:03:53.617 PlayerListener        com.mohit.exoplayer           I  onPlayWhenReadyChanged: playWhenReady = false
+12:03:53.617 PlayerListener        com.mohit.exoplayer           I  onIsPlayingChanged: false
+12:03:53.621 Toast                 com.mohit.exoplayer           V  show: caller = com.mohit.exoplayer.MainActivity$initPlayer$1.onIsPlayingChanged:49
+12:03:53.621 Toast                 com.mohit.exoplayer           V  show: isFocusInDesktop = false mCustomDisplayId = -1 isDexDualMode = false isActivityContext = true
+12:03:53.625 PlayerListener        com.mohit.exoplayer           V  onEvents:
+12:03:53.732 mohit.exoplayer       com.mohit.exoplayer           I  Compiler allocated 6075KB to compile void android.view.ViewRootImpl.performTraversals()
+12:03:59.516 BufferPoolAccessor2.0 com.mohit.exoplayer           D  bufferpool2 0x709582b758 : 4(32768 size) total buffers - 0(0 size) used buffers - 449/458 (recycle/alloc) - 14/914 (fetch/transfer)
+12:03:59.517 BufferPoolAccessor2.0 com.mohit.exoplayer           D  evictor expired: 1, evicted: 1
